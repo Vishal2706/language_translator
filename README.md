@@ -1,3 +1,3 @@
-# language_translator
-# with Tensorflow
-i'm using bidirectional seq2seq neural network with attention decoder
+# language_translator with Tensorflow
+
+Developed by bidirectional seq2seq neural network with attention decoder
